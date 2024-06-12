@@ -8,7 +8,10 @@
     "@testing-library/user-event": "^13.5.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+<<<<<<< HEAD
     "react-router-dom": "^6.9.0",
+=======
+>>>>>>> 2f892c5b (Initialize project using Create React App)
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
